@@ -19,7 +19,7 @@ class Mahasiswa {
     }
 }
 
-// Membuat Class tanpa menambahkan Property & Method, tetapi mengambil dari Parent nya
+// Membuat Class tanpa menambahkan Property & Method, tetapi mengambil dari Parent nya menggunakan extends
 class Absen extends Mahasiswa {}
 
 // Membuat objek (contoh: Mahasiswa 1)
